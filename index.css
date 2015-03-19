@@ -6,7 +6,7 @@ body {
 	width: 100%;
 	position: relative;
 	height:360px;
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 	padding: 0;
 	background-image: url("main.jpg");
 	background-size: 100%;
@@ -19,7 +19,7 @@ body {
 	color: #FFFFFF;
 	font-family: 'Slabo 27px', sans-serif;
 	position: absolute;
-	top: 0;
+	top: 10px;
 	width: 100%;
 }
 
