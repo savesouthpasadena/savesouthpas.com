@@ -18,24 +18,25 @@ body {
 
 #header {
 	text-align: center;
-	font-size: 64px;
+	font-size: 48px;
 	color: #FFFFFF;
 	font-family: 'Slabo 27px', sans-serif;
 	position: absolute;
-	top: 10px;
+	top: 20px;
 	width: 100%;
+	text-shadow: 0 1px #000000
 }
 
 @media (max-width: 640px) {
 	#header {
-		font-size: 40px;
+		font-size: 32px;
 	}
 }
 
 /* MailChimp Form Embed Code - Slim - 08/17/2011 */
 #mc_embed_signup {
 	position: absolute;
-	bottom: 30px;
+	bottom: 20%;
 	width:100%;
 }
 #mc_embed_signup form {display:block; position:relative; text-align:center;}
